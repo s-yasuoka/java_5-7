@@ -1,5 +1,5 @@
 public class Main{
-  public static void main(String[] args){
+  public static int add(int x, int y){
     int ans = x + y;
     return ans;
   }
